@@ -11,7 +11,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybrGhostf/SairTag)
 
 ### 🎯 Krediler ve Diğer
-- [Maho Ağa](https://github.com/CybrGhostf) Developer 👨‍💻
-- [Sohbet Destek](https://t.me/Sairbey) Proje Kanalı 📣
+- [Ghost](https://github.com/CybrGhostf) Developer 👨‍💻
+- [Destek](https://t.me/Sairbey) Support 📣
 
 **Github'da bizi takip etmeyi unutmayınız.✌️**
