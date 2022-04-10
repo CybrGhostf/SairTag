@@ -29,7 +29,7 @@ async def cancel(event):
 async def start(event):
   await event.reply("**Etiketleme Botu**, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilir ★\nDaha fazla bilgi için **/help**'i tıklayın.",
                     buttons=(
-                      [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/UserEtigetBot?startgroup=a'),
+                      [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/SairTaggerbot?startgroup=a'),
                       Button.url('📣 Support', 'https://t.me/Sairingunlugu'),
                       Button.url('👮‍♂️ Sahibim', 'https://t.me/Sairbey')]
                     ),
@@ -40,7 +40,7 @@ async def help(event):
   helptext = "**Mention Tagger Bot'un Yardım Menüsü**\n\nKomut: /all \n  Bu komutu, başkalarına bahsetmek istediğiniz metinle birlikte kullanabilirsiniz. \n`Örnek: /all Günaydın!`  \nBu komutu yanıt olarak kullanabilirsiniz. herhangi bir mesaj Bot, yanıtlanan iletiye kullanıcıları etiketleyerek ve /bitir yazarak etiketleme işlemi biter. 🤗"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/UserEtigetBot?startgroup=a'),
+                      [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/SairTaggerbot?startgroup=a'),
                        Button.url('📣 Support', 'https://t.me/Sairingunlugu'),
                       Button.url('👮‍♂️ Sahibim', 'https://t.me/Sairbey')]
                     ),
@@ -52,7 +52,7 @@ async def help(event):
   helptext = "**Çok özellikleri Etiket Botu Bulmaya Çalışan Grub Sahibleri TaggerBot Size Göre:\n\n📌 5-li etiket\n📌 Emoji etiket\n📌 Tekli Etiket\n📌 Yalnız Yöneticileri etiketleme\n📌\n\n Böyle Çok özellikli TaggerBot 'u grubunuza yönetici olarak ekleyip rahatlıkla üyelir , etiket ata bilirsiz **"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('Botu Gruba Ekle➕', 'https://t.me/UserEtigetBot?startgroup=a')],
+                      [Button.url('Botu Gruba Ekle➕', 'https://t.me/SairTaggerbot?startgroup=a')],
                     ),
                     link_preview=False
                    )
