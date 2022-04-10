@@ -5,7 +5,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 ### 🏷 Bilgiler... 
 - Language: Python.
 - Telegram Library: Telethon.
-- [Sohbet Destek](https://t.me/Sohbetdestek) daha fazlası için. 
+- [Destek](https://t.me/Sairbey) daha fazlası için. 
 
 ### 🌀 Heroku'ya dağıtın
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybrGhostf/SairTag)
